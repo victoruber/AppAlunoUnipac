@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f629903-6493-4a86-be26-cabd1c62c085" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/App_Aluno_UNIPAC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/androidTest/java/com/example/appunipac/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/java/com/example/appunipac/DAO/AlunoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/java/com/example/appunipac/INFRA/DbHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/java/com/example/appunipac/MODEL/DOMAIN/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/java/com/example/appunipac/MODEL/REPOSITORY/AlunoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/java/com/example/appunipac/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/java/com/example/appunipac/UI/ADAPTER/AlunoAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/java/com/example/appunipac/UI/ADAPTER/AlunoForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/layout/activity_aluno_form.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/layout/aluno_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/layout/content_aluno_form.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/app/src/test/java/com/example/appunipac/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/AppAlunoUnipac-master/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/androidTest/java/com/example/appunipac/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/java/com/example/appunipac/DAO/AlunoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/java/com/example/appunipac/INFRA/DbHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/java/com/example/appunipac/MODEL/DOMAIN/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/java/com/example/appunipac/MODEL/REPOSITORY/AlunoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/java/com/example/appunipac/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/java/com/example/appunipac/UI/ADAPTER/AlunoAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/java/com/example/appunipac/UI/ADAPTER/AlunoForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/layout/activity_aluno_form.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/layout/aluno_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/layout/content_aluno_form.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/app/src/test/java/com/example/appunipac/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppAlunoUNIPAC/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/AppAlunoUNIPAC">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bxuHKQywBExhetHlVfZ5oYR1nC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f629903-6493-4a86-be26-cabd1c62c085" name="Default Changelist" comment="" />
+      <created>1589585980796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589585980796</updated>
+    </task>
+    <servers />
+  </component>
+</project>
